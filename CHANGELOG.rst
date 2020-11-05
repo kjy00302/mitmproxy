@@ -4,6 +4,7 @@ Release History
 Unreleased: mitmproxy next
 ==========================
 
+* Fix text truncation for full-width characters (@kjy00302)
 * --- TODO: add new PRs above this line ---
 
 * ... and various other fixes, documentation improvements, dependency version bumps, etc.
